@@ -1,10 +1,13 @@
 # 포스팅 작성 방법
 
-### 포스팅 파일
+## 포스팅 파일
+
 파일 이름을 `yyyy-MM-dd-이름.md` 형식으로 해서 `_posts`폴더에 넣어주면 됩니다.
 
-### yaml front matter
+## YAML front matter
+
 이 내용을 포스팅 최상단에 적어야 합니다.
+
 ```yml
 ---
 title: "제목"
