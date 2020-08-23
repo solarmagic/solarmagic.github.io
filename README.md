@@ -1,6 +1,6 @@
 # 솔라매직 블로그
 
-다양한 블로그를 거쳐서 github.io로 블로그를 해본다!
+다양한 블로그를 거쳐서 github.io로 블로그를 해본다! [나정휘님 블로그](https://github.com/justiceHui/justiceHui.github.io)를 mirror해서 시작한 블로그입니다.
 
 ## 나만의 블로그로 바꾸기
 
@@ -8,7 +8,7 @@
 
 ![fork](https://i.imgur.com/vXoImRp.png)
 
-깃헙으로 가서 우상단에 star 하나 눌러 주고 포크버튼을 눌러준다.
+깃헙으로 가서 우상단에 star 하나 눌러 주고 포크하거나 수정한다.
 
 ![settings](https://i.imgur.com/hcfeI0c.png)
 
